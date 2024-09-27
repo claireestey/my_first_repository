@@ -82,3 +82,9 @@ knitr::include_graphics(paste0(here(), "/images/flipturn.jpg"))
 ***
 
 This repository is now set up for git!
+
+# GitHub
+
+***
+
+I also set up a GitHub repo :) 
