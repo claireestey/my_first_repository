@@ -1,5 +1,5 @@
 
-# My first Repository
+# My First Repository
 
 ------------------------------------------------------------------------
 
@@ -82,3 +82,9 @@ knitr::include_graphics(paste0(here(), "/images/flipturn.jpg"))
 ```
 
 ![](images/flipturn.jpg)<!-- -->
+
+# Git
+
+------------------------------------------------------------------------
+
+This repository is now set up for git!
